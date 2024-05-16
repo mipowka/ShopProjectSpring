@@ -25,4 +25,8 @@ public class Product {
 
     public Product() {
     }
+
+    public void h1(){
+
+    }
 }
